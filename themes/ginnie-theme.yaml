@@ -1,0 +1,18 @@
+Ginnie Default:
+  modes:
+    dark:
+      primary-color: "#2BAA37"
+      light-primary-color: "#2BAA37"
+      background-color: "#2BAA37"
+      secondary-background-color: "#2BAA37"
+      state-icon-color: "#999999"
+      app-header-background-color: var(--card-background-color)
+      app-header-text-color: var(--primary-text-color)
+    light:
+      primary-color: "#2BAA37"
+      light-primary-color: "#2BAA37"
+      background-color: "#2BAA37"
+      secondary-background-color: "#2BAA37"
+      state-icon-color: "#999999"
+      app-header-background-color: var(--card-background-color)
+      app-header-text-color: var(--primary-text-color)

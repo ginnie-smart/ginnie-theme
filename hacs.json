@@ -1,0 +1,6 @@
+{
+    "name": "Ginnie Theme",
+    "homeassistant": "2024.5.0",
+    "filename": "ginnie-theme.yaml",
+    "render_readme": true
+}
