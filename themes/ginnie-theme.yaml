@@ -1,7 +1,30 @@
 Ginnie Default:
-  # Import Google Fonts
-  card-mod-root: |
-    @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Hebrew:wght@300;400;500;600;700&family=Reddit+Sans:wght@300;400;500;600;700&display=swap');
+  # Font definitions
+  primary-font-family: '"Reddit Sans", "Noto Sans Hebrew", -apple-system, "system-ui", "Segoe UI", Roboto, sans-serif'
+  secondary-font-family: '"Reddit Sans", "Noto Sans Hebrew", -apple-system, "system-ui", "Segoe UI", Roboto, sans-serif'
+  
+  # HA font family variables (comprehensive list based on Frosted Glass theme)
+  ha-font-family-text: '"Reddit Sans", "Noto Sans Hebrew", -apple-system, "system-ui", "Segoe UI", Roboto, sans-serif'
+  ha-font-family-heading: '"Reddit Sans", "Noto Sans Hebrew", -apple-system, "system-ui", "Segoe UI", Roboto, sans-serif'
+  ha-font-family-code: '"Reddit Sans", "Noto Sans Hebrew", -apple-system, "system-ui", "Segoe UI", Roboto, sans-serif'
+  ha-font-family-longform: '"Reddit Sans", "Noto Sans Hebrew", -apple-system, "system-ui", "Segoe UI", Roboto, sans-serif'
+  ha-card-header-font-family: '"Reddit Sans", "Noto Sans Hebrew", -apple-system, "system-ui", "Segoe UI", Roboto, sans-serif'
+  
+  # MDC typography font family variables
+  mdc-typography-font-family: '"Reddit Sans", "Noto Sans Hebrew", -apple-system, "system-ui", "Segoe UI", Roboto, sans-serif'
+  mdc-typography-button-font-family: '"Reddit Sans", "Noto Sans Hebrew", -apple-system, "system-ui", "Segoe UI", Roboto, sans-serif'
+  mdc-typography-body1-font-family: '"Reddit Sans", "Noto Sans Hebrew", -apple-system, "system-ui", "Segoe UI", Roboto, sans-serif'
+  md-list-item-label-text-font: '"Reddit Sans", "Noto Sans Hebrew", -apple-system, "system-ui", "Segoe UI", Roboto, sans-serif'
+  
+  # Paper font family variables
+  paper-font-common-base_-_font-family: '"Reddit Sans", "Noto Sans Hebrew", -apple-system, "system-ui", "Segoe UI", Roboto, sans-serif'
+  paper-font-common-code_-_font-family: '"Reddit Sans", "Noto Sans Hebrew", -apple-system, "system-ui", "Segoe UI", Roboto, sans-serif'
+  paper-font-body1_-_font-family: '"Reddit Sans", "Noto Sans Hebrew", -apple-system, "system-ui", "Segoe UI", Roboto, sans-serif'
+  paper-font-subhead_-_font-family: '"Reddit Sans", "Noto Sans Hebrew", -apple-system, "system-ui", "Segoe UI", Roboto, sans-serif'
+  paper-font-headline_-_font-family: '"Reddit Sans", "Noto Sans Hebrew", -apple-system, "system-ui", "Segoe UI", Roboto, sans-serif'
+  paper-font-caption_-_font-family: '"Reddit Sans", "Noto Sans Hebrew", -apple-system, "system-ui", "Segoe UI", Roboto, sans-serif'
+  paper-font-title_-_font-family: '"Reddit Sans", "Noto Sans Hebrew", -apple-system, "system-ui", "Segoe UI", Roboto, sans-serif'
+  
   modes:
     dark:
       primary-color: "#2BAA37"
@@ -11,7 +34,6 @@ Ginnie Default:
       state-icon-color: "#999999"
       app-header-background-color: var(--card-background-color)
       app-header-text-color: var(--primary-text-color)
-      primary-font-family: '"Reddit Sans", "Noto Sans Hebrew", -apple-system, "system-ui", "Segoe UI", Roboto, sans-serif'
     light:
       primary-color: "#2BAA37"
       light-primary-color: "#2BAA37"
@@ -20,4 +42,3 @@ Ginnie Default:
       state-icon-color: "#999999"
       app-header-background-color: var(--card-background-color)
       app-header-text-color: var(--primary-text-color)
-      primary-font-family: '"Reddit Sans", "Noto Sans Hebrew", -apple-system, "system-ui", "Segoe UI", Roboto, sans-serif'
