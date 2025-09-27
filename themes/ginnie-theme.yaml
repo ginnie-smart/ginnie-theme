@@ -2,7 +2,8 @@ Ginnie Default:
   # Font definitions
   primary-font-family: '"Reddit Sans", "Noto Sans Hebrew", -apple-system, "system-ui", "Segoe UI", Roboto, sans-serif'
   secondary-font-family: '"Reddit Sans", "Noto Sans Hebrew", -apple-system, "system-ui", "Segoe UI", Roboto, sans-serif'
-  
+  ha-font-family-body: '"Reddit Sans", "Noto Sans Hebrew", -apple-system, "system-ui", "Segoe UI", Roboto, sans-serif'
+
   # HA font family variables (comprehensive list based on Frosted Glass theme)
   ha-font-family-text: '"Reddit Sans", "Noto Sans Hebrew", -apple-system, "system-ui", "Segoe UI", Roboto, sans-serif'
   ha-font-family-heading: '"Reddit Sans", "Noto Sans Hebrew", -apple-system, "system-ui", "Segoe UI", Roboto, sans-serif'
